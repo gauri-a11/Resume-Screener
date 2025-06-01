@@ -1,4 +1,2 @@
-import streamlit as st
-
-key = st.secrets["AIzaSyB9rkqmZDo3coB6yFaBaBPkn2YZF9HgFGg"]
-
+[gemini]
+api_key = "AIzaSyB9rkqmZDo3coB6yFaBaBPkn2YZF9HgFGg"
