@@ -3,7 +3,7 @@ from fileloader import load_resume
 from analyse import get_ats_score, get_resume_analysis
 from generate import generate_enhanced_cv
 import tempfile
-
+api_key = st.secrets["gemini"]["api_key"]
 st.set_page_config(page_title="Resume Analyzer", layout="wide")
 
 st.title("📄 AI Resume Analyzer & Enhancer")
