@@ -1,2 +1,2 @@
 
-api_key = "AIzaSyB9rkqmZDo3coB6yFaBaBPkn2YZF9HgFGg"
+key = "AIzaSyB9rkqmZDo3coB6yFaBaBPkn2YZF9HgFGg"
